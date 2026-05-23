@@ -55,7 +55,7 @@ HCFFormer/
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/HCFFormer.git
+git clone https://github.com/x1xsas/HCFFormer.git
 cd HCFFormer
 ```
 
@@ -210,7 +210,7 @@ The included code provides a clean, executable PyTorch implementation and reposi
 If you use this repository, please cite:
 
 ```bibtex
-@article{HCFFormer2026,
+@article{HCFFormer2025,
   title={HCFFormer: A Hybrid CNN--Transformer Framework for Heterogeneous Remote Sensing Image Change Detection},
   author={Salman Alsalman, Amina Salhi},
   journal={International Journal of Remote Sensing},
