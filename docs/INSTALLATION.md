@@ -5,11 +5,9 @@ The HCFFormer framework was implemented using Python 3.10, PyTorch 2.0, and CUDA
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/username/HCFFormer.git
+git clone https://github.com/x1xSAS/HCFFormer.git
 cd HCFFormer
 ```
-
-Replace `username` with the GitHub account or organization name that hosts the repository.
 
 ## 2. Create a Virtual Environment
 
