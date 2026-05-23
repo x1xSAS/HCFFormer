@@ -212,7 +212,7 @@ If you use this repository, please cite:
 ```bibtex
 @article{HCFFormer2025,
   title={HCFFormer: A Hybrid CNN--Transformer Framework for Heterogeneous Remote Sensing Image Change Detection},
-  author={Salman Alsalman, Amina Salhi},
+  author={Alsalman, Salman and Salhi, Amina},
   journal={International Journal of Remote Sensing},
   year={2026}
 }
