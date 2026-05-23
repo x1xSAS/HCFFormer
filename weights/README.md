@@ -1,11 +1,3 @@
 # Weights Directory
 
-Place trained model checkpoints in this directory.
-
-Expected default checkpoint path:
-
-```text
-weights/hcf_former.pth
-```
-
-Pretrained weights can be published through GitHub Releases and linked from the main README.
+Pretrained model weights are not included in this repository. If available, they will be provided through the repository release page. Users may also train the model using the provided training scripts and save checkpoints in this directory.
