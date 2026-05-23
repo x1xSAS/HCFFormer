@@ -210,7 +210,7 @@ The included code provides a clean, executable PyTorch implementation and reposi
 If you use this repository, please cite:
 
 ```bibtex
-@article{HCFFormer2025,
+@article{HCFFormer2026,
   title={HCFFormer: A Hybrid CNN--Transformer Framework for Heterogeneous Remote Sensing Image Change Detection},
   author={Alsalman, Salman and Salhi, Amina},
   journal={International Journal of Remote Sensing},
